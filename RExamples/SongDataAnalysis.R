@@ -1,5 +1,5 @@
-# Date: 23/04, MS4034 Assignment 2
-#Want to overall predict the popularity of a song
+# Date: 23/04, MS4034 Data Analysis Assignment 2 Orla Fitzmaurice
+# Analysing a dataset that has been downloaded from Kaggle: Song Popularity
 
 #Popluar Songs DataSet
 library(tidyverse)
@@ -280,7 +280,7 @@ x_bar <- mean(full_song_data$audio_valence)
 s <- sd(full_song_data$audio_valence)
 z_CI(x_bar, s, n, alpha)
 
-#NOTE: Didn't inlcude in report, this just calculates the medin not an interval
+#NOTE: Didn't inlcude in report, this just calculates the median not an interval
 #Confidence Intervals for the median for skewed distributions
 #95% Confidence Interval for the median for song duration
 med <- median(full_song_data$song_duration_ms)
