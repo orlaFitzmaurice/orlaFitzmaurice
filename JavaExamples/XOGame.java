@@ -1,7 +1,5 @@
 /**
- * CS4012 Object Oriented Programming
- * Assignment 1
- * Exercise 6.21
+ * XO Game
  * 
  * 
  * @author Orla Fitzmaurice 20237154
