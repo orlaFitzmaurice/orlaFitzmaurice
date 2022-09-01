@@ -1,3 +1,4 @@
+%% Plotting eigenfunctions that I have calculated on the same graph
 %% Question 1 a (i):
 hold on;
 
