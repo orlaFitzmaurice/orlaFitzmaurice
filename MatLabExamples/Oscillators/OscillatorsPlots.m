@@ -1,3 +1,5 @@
+%% File to plot three versions of a harmonic oscillator
+
 %% Question 1 a (i):
 hold on;
 
