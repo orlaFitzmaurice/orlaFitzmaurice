@@ -1,6 +1,6 @@
 
 /**
- * Lab 5
+ * Class to represent a Current account that inherits from BankAccount
  *
  *
  * @author Orla Fitzmaurice 20237154
