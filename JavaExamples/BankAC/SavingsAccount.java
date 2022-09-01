@@ -1,6 +1,6 @@
 
 /**
- * Class to represent a Savings Account, inherits from BankAccount
+ * Lab 5
  *
  *
  * @author Orla Fitzmaurice 20237154

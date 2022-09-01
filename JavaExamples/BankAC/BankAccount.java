@@ -1,6 +1,6 @@
 
 /**
- * Class to represent bank account
+ * Lab 5
  *
  *
  * @author Orla Fitzmaurice 20237154

@@ -1,6 +1,6 @@
 
 /**
- * Class to represent and remeber the details of a transaction
+ * Lab 5
  *
  *
  * @author Orla Fitzmaurice 20237154

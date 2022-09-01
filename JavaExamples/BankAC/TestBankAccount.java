@@ -1,6 +1,6 @@
 
 /**
- * Class to represent the different types of Bank Accounts I have created
+ * Lab 5
  *
  *
  * @author Orla Fitzmaurice 20237154

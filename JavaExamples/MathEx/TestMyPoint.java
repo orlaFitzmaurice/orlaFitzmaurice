@@ -1,6 +1,8 @@
 
 /**
- * Class to test the MyPoint class I created
+ * CS4013 Lab 2
+ * Q2
+ *
  *
  * @author Orla Fitzmaurice 20237154
  * @version 29/09/2021

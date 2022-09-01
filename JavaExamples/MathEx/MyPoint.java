@@ -1,6 +1,7 @@
 
 /**
- * Class to represent a point
+ * CS4013 Lab 2
+ * Q1
  *
  *
  * @author Orla Fitzmaurice 20237154
