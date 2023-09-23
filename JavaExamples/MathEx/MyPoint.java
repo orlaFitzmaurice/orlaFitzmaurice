@@ -1,10 +1,9 @@
 
 /**
- * CS4013 Lab 2
- * Q1
+ * Lab exercise
+ * Class to represnt a point
  *
- *
- * @author Orla Fitzmaurice 20237154
+ * @author Orla Fitzmaurice 
  * @version 29/09/2021
  */
 public class MyPoint {
