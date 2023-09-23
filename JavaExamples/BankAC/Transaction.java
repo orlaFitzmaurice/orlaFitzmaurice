@@ -1,9 +1,9 @@
 
 /**
- * Lab 5
+ * BankAC Lab Exercise
+ * Aim: Create a representation of different types of bank ac's using object oriented inheritance
  *
- *
- * @author Orla Fitzmaurice 20237154
+ * @author Orla Fitzmaurice 
  * @version 20/10/2021
  */
 import java.time.LocalDateTime;
