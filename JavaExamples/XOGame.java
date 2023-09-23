@@ -1,10 +1,8 @@
 /**
- * CS4012 Object Oriented Programming
- * Assignment 1
- * Exercise 6.21
- * 
- * 
- * @author Orla Fitzmaurice 20237154
+ * Object Oriented Programming Assignment
+ * Aim: Create an X0 Game 
+ *
+ * @author Orla Fitzmaurice 
  * @version 16/09/2021
  */
 import java.util.Scanner;
@@ -25,7 +23,7 @@ public class Exercise7_9 {
         boolean gOver = false;
 
         //Ask the players where they want to place their x and o
-        //after each enetry print out the game and caheck wheter they have won
+        //after each entery print out the game and check whether they have won
         //if not won continue playing
         //while bolean WIN = false
         while (gOver == false) {
