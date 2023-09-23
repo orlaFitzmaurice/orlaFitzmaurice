@@ -1,9 +1,8 @@
-
 /**
- * Lab 5
+ * TestBankAccount Lab Exercise
+ * Aim: Test the bank account classes I created previously
  *
- *
- * @author Orla Fitzmaurice 20237154
+ * @author Orla Fitzmaurice 
  * @version 20/10/2021
  */
 import java.util.ArrayList;
